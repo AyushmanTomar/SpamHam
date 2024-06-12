@@ -4,7 +4,8 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import string
-
+nltk.download('punkt')
+nltk.download('stopwords')
 cv = pickle.load(open('vectorizer.pkl','rb'))
 model = pickle.load(open('model.pkl','rb'))
 st.title("Spam Detection- Ayushman Tomar")
