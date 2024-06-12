@@ -19,7 +19,8 @@ SpamHam utilizes advanced machine learning algorithms to classify messages. It l
 
 ## Getting Started 🚀
 
-Check out the Getting Started guide to learn how to set up and use SpamHam.
+1) Clone the repository and install all the dependencies using pip
+2) run the Streamlit server using command: streamlit run main.py
 
 ## Contributing 🤝
 
