@@ -15,7 +15,6 @@ SpamHam utilizes advanced machine learning algorithms to classify messages. It l
 
 - **High Accuracy**: Our model has been trained and tested on a diverse dataset, ensuring high prediction accuracy.
 - **Fast Prediction**: Don't wait around. Get instant predictions with our optimized ML model.
-- **Easy Integration**: Easily integrate SpamHam into your email client or messaging app.
 
 ## Getting Started 🚀
 
