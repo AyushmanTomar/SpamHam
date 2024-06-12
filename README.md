@@ -1,6 +1,6 @@
 # SpamHam: Your Personal Spam Filter 🛡️
 
-Welcome to **SpamHam**, a cutting-edge machine learning project that predicts whether a message is spam or not. 
+Welcome to **SpamHam**, a machine learning project that predicts whether a message is spam or not. 
 
 ## Link: https://spamham-6xl4.onrender.com
 ## Overview 📝
