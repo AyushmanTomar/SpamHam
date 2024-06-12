@@ -24,11 +24,7 @@ SpamHam utilizes advanced machine learning algorithms to classify messages. It l
 
 ## Contributing 🤝
 
-We welcome contributions! See our Contributing guide for more details.
-
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+We welcome contributions!
 
 ---
 
